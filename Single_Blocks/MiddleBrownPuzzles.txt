@@ -1,0 +1,68 @@
+Are : Art
+Before : Ere
+Between : Betwixt
+Connection : Connexion 
+Near : Nigh
+No : Nay
+Stop : Stand
+You : Thou
+Your : Thy
+
+Antimony : Stibium
+Ferrum : Iron
+Gold : Aurum
+Mercury : Hydrargyrum
+Lead : Plumbum
+Potassium : Kalium
+Silver : Argentum
+Sodium : Natrium
+Tin : Stannum
+Tungsten : Wolfram
+
+Mod : Modification
+Mod : Moderator
+Pog : Pogchamp
+Sus : Suspicious
+
+AFK : Away From Computer
+ASAP : As Soon As Possible
+BC : Because
+BRB : Be Right Back
+BTW : By The Way
+CYA : See Ya
+DQ: Disqualified
+FAQ : Frequently Asked Question
+FWIW : For What It's Worth
+GL : Good Luck
+GG : Good Game
+GN : Good Night
+HF : Hav Fun
+ICYMI: In Case You Missed It
+IDC : I Don't Care
+IDK : I Don't Know
+IMO : In My Opinion
+IOU : I Owe You
+IRL : In Real Life
+LMAO :* Laughing My Ass Off
+LMK : Let Me Know
+LOL : Laugh Out Loud
+MSG : Message
+NP : No Problem
+NSFW : Not Safe For Work
+NVM : Nevermind
+OMG : Oh My God
+PLS : Please
+R : Are
+RN : Right Now
+ROFL : Rolling On THe Floor Laughing
+STFU :* Shut The Fuck Up
+SFW : Safe For Work
+TBA : To Be Announced
+TBD : To Be Decided
+TBH : To Be Honest
+TL;DR : Too Long, Didn't Read
+TTYL : Talk To You Later
+TY : Thank You
+WDYM : What Do You Mean
+WTF :* What The Fuck
+Y : Why

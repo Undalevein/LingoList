@@ -1,0 +1,15 @@
+Also Me : hatkirby
+Answer Length : Four
+Color : Gray
+Height : [Insert Block Height Here]
+Level : [Insert Level Name Here]
+Me : Brenton
+Modification : Archipelago
+Seed : [Insert AP Seed Generation Here]
+You : [Insert File Name Here]
+
+Date : [Insert the date according to your computer clock; must use "/" in the answer]
+n'th Solve : [Insert the n'th panel you solved; n can be any natural number]
+Previous Solve : [Insert the previously solved panel here]
+Total Puzzle Solved : [Insert the total puzzle you solved before you solve this panel]
+Time : [Insert the time according to your computer clock in military time]

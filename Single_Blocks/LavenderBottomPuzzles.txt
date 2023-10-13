@@ -1,0 +1,7 @@
+Clothes : Closet
+Clothes : Dresser
+Door : Doorframe
+File : Cabinet
+File : Directory
+File : Folder
+Human : House

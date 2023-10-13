@@ -1,0 +1,26 @@
+,D : Comedy
+4 : Four
+4A : Foray
+AD : Eighty
+B : Be
+B : Bee
+B4 : Before
+BUT : Beauty
+C : See
+C : Sea
+CD : Seedy
+DK : Decay
+EZ : Easy
+I : Eye
+IC : Icy
+MT : Empty
+NME : Enemy
+NVS : Envious
+OBDNC : Obediency
+P : Pee
+RA : Array
+W : Double You
+XL : Excel
+XLNC : Excellency
+XPDNC : Expediency
+Y : Why

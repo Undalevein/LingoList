@@ -8,7 +8,7 @@ A list of all possible puzzle combinations for the puzzle video game Lingo. This
 4. [Top Mint Level 1](#t1mint)
 5. [Bottom Lavender](#blavender)
 
-### Column List
+### Combined List
 
 ### Chain List
 
